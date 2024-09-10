@@ -1,4 +1,26 @@
-# PipesApp
+# PipesApp - Todos los Pipes de Angular y Pipes Personalizados
+
+¿Qué veremos en esta aplicación?
+
+1. Todos los Pipes de Angular a la fecha
+    -Uppercase
+    -Lowercase
+    -TitleCase
+    -Date
+    -Decimal
+    -Currency
+    -Percent
+    -i18nSelect
+    -i18Plural
+    -KeyValue
+    -Json
+    -Async
+2. PrimeNG
+3. Módulo especializado para módulos de PrimeNG
+4. Pipes personalizados
+5. Argumentos hacia los Pipes
+6. SortableTable manual usando PrimeNg
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
