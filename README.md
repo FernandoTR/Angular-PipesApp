@@ -3,18 +3,18 @@
 ¿Qué veremos en esta aplicación?
 
 1. Todos los Pipes de Angular a la fecha
-    -Uppercase
-    -Lowercase
-    -TitleCase
-    -Date
-    -Decimal
-    -Currency
-    -Percent
-    -i18nSelect
-    -i18Plural
-    -KeyValue
-    -Json
-    -Async
+    1. Uppercase
+    2. Lowercase
+    3. TitleCase
+    4. Date
+    5. Decimal
+    6. Currency
+    7 .Percent
+    8. i18nSelect
+    9. i18Plural
+    10. KeyValue
+    11. Json
+    12. Async
 2. PrimeNG
 3. Módulo especializado para módulos de PrimeNG
 4. Pipes personalizados
